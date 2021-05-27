@@ -4,3 +4,4 @@
 * Hades
 * Ultron
 * Magneto
+* Loki
