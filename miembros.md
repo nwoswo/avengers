@@ -5,4 +5,6 @@
 * Capitán America
 * Ant Man
 * Hulk
+* Soldier
+* Winter Soldier
 
