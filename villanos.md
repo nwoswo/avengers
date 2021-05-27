@@ -3,3 +3,4 @@
 * Red Scoll
 * Hades
 * Ultron
+* Magneto
